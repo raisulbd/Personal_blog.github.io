@@ -5,8 +5,10 @@
 }
 
 body {
+  font-family: "Comforter Brush", cursive;
+  font-family: "Montserrat", sans-serif;
   font-family: "Open Sans", sans-serif;
-  font-family: "Oswald", sans-serif;
+  font-family: "Raleway", sans-serif;
 }
 
 html {
@@ -24,4 +26,3 @@ a {
 .raisul {
   clear: both;
 }
-
